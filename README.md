@@ -1,2 +1,9 @@
 # ML-for-earthquake-prediction
  
+This research aims to compare (2) machine learning models applied in different locations on planet Earth, applying them in the same area. The designated area is the seismic node located in the Municipality of Los Santos, Santander in Colombia. The database has been extracted from the ISC (International Seismological Center) and there is a record of events from 2004 to 2019. The supervised learning methods RNA and SVM have been compared. The results are that both machine learning models obtained a 100% success rate, but this may be since the condition that at least a quarter of the seismic catalog has the label 1 (alarm) is not met. It was concluded that both machine learning models had an outstanding performance, being trained in less than 1 second, and having error rates of 0%.
+
+Keywords: Machine Learning, seismic forecasting, seismic node, ANN, SVM.
+
+Con esta investigación se pretende comparar (2) modelos de aprendizaje automático aplicados en diferentes ubicaciones del planeta Tierra aplicándolos en la misma zona. La zona designada es el nudo sísmico ubicado en el Municipio de Los Santos, Santander en Colombia. La base de datos utilizada ha sido extraída del ISC (International Seismological Centre) Y se cuenta con un registro de eventos desde el año 2004 hasta el año 2019. Se han comparado los métodos de aprendizaje supervisado RNA y SVM. Los resultados son que ambos modelos de aprendizaje automático obtuvieron una tasa de acierto del 100%, pero esto puede deberse a que no se cumple con la condición que al menos la cuarta parte del catálogo sísmico posea el etiquetado 1 (alarma). Se llegó a la conclusión que ambos modelos de machine learning tuvieron un rendimiento sobresaliente, llegando a entrenarse en menos de 1 segundo, y teniendo tasas de error de 0%.
+
+Palabras Clave: Aprendizaje automático, pronóstico de sismos, nudo sísmico, RNA, MVS.
